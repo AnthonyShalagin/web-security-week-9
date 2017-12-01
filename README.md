@@ -18,20 +18,19 @@ A **honeypot** is a decoy application, server, or other networked resource that 
 
 | Top 5 Attacker IPs        | Number of Attacks          |
 | ------------- |:-------------:|
-| 195.154.181.191      | 13 |
-| 202.96.50.225      | 6      |
-| 139.60.161.43 | 3      |
-| 5.9.49.72 | 2      |
-| 178.159.37.99 | 2      |
-
+| 134.74.251.204      | 547 |
+| 200.85.93.196      | 3      |
+| 85.93.20.248 | 3      |
+| 129.157.228.96 | 3      |
+| 61.27.18.125 | 1      |
 
 | Top 5 Attacker Ports        | Number of Attacks          |
 | ------------- |:-------------:|
-| 23      | 17 |
-| 5060      | 16      |
-| 10050 | 6      |
+| 23      | 14 |
+| 3389      | 3      |
+| 2323 | 3      |
 | 1433 | 3      |
-| 8080 | 2      |
+| 8000 | 2      |
 
 ### Which Honeypot(s) you deployed
 Honeypot Dionaea with HTTP
