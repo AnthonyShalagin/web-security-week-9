@@ -1,8 +1,5 @@
 # WebsiteSecurity_Week9
 CodePath Facebook Website Security Week 9 Assignment
-
-![A screenshot of the Attack Stat on the MHN Server](https://media.giphy.com/media/26u4hGloP8p0CXp7y/giphy.gif)
-
 # Project 9 - Honey Pot
 
 Time spent: **10** hours spent in total
